@@ -454,8 +454,8 @@ box-shadow: 0px 0px 18px 0px #eee;
 
 .about .textt{
     color: white; 
-    animation-duration: 1s;
-    animation-delay: 1s;
+    animation-duration: 0.5s;
+    animation-delay: 0.5s;
     
 }
 .about .textt p{
@@ -472,8 +472,8 @@ box-shadow: 0px 0px 18px 0px #eee;
 
 .about .text{
     color: white; 
-    animation-duration: 1s;
-    animation-delay: 1s;
+    animation-duration: 0.5s;
+    animation-delay: 0.5s;
     
 }
 .about .text p{
@@ -955,4 +955,5 @@ margin-bottom: 60px;
         font-size: 25px;
 
     }
+
 }
